@@ -49,7 +49,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-400 rounded-2xl transform rotate-3"></div>
               <img
-                src="/lovable-uploads/e440d287-28de-4883-bd42-7116e089b99c.png"
+                src="/lovable-uploads/ee289463-5e2f-4ea8-970e-c0dd1cc3ea3a.png"
                 alt="Saw Yan Naing"
                 className="relative rounded-2xl shadow-2xl w-full max-w-md mx-auto object-cover"
               />
